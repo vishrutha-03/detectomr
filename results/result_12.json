@@ -1,0 +1,414 @@
+{
+  "per_subject_score": {
+    "Python": 3.0,
+    "EDA": 2.0,
+    "SQL": 2.0,
+    "POWER BI": 4.0,
+    "Statistics": 2.0
+  },
+  "total_score": 13.0,
+  "per_question": {
+    "1": {
+      "selected": "B",
+      "correct": false
+    },
+    "2": {
+      "selected": null,
+      "correct": null
+    },
+    "3": {
+      "selected": "B",
+      "correct": false
+    },
+    "4": {
+      "selected": null,
+      "correct": null
+    },
+    "5": {
+      "selected": "A",
+      "correct": false
+    },
+    "6": {
+      "selected": "A",
+      "correct": true
+    },
+    "7": {
+      "selected": null,
+      "correct": null
+    },
+    "8": {
+      "selected": null,
+      "correct": null
+    },
+    "9": {
+      "selected": "A",
+      "correct": false
+    },
+    "10": {
+      "selected": "A",
+      "correct": false
+    },
+    "11": {
+      "selected": "A",
+      "correct": true
+    },
+    "12": {
+      "selected": "A",
+      "correct": true
+    },
+    "13": {
+      "selected": null,
+      "correct": null
+    },
+    "14": {
+      "selected": null,
+      "correct": null
+    },
+    "15": {
+      "selected": "A",
+      "correct": false
+    },
+    "16": {
+      "selected": "C",
+      "correct": false
+    },
+    "17": {
+      "selected": null,
+      "correct": null
+    },
+    "18": {
+      "selected": null,
+      "correct": null
+    },
+    "19": {
+      "selected": null,
+      "correct": null
+    },
+    "20": {
+      "selected": null,
+      "correct": null
+    },
+    "21": {
+      "selected": null,
+      "correct": null
+    },
+    "22": {
+      "selected": "A",
+      "correct": false
+    },
+    "23": {
+      "selected": null,
+      "correct": null
+    },
+    "24": {
+      "selected": null,
+      "correct": null
+    },
+    "25": {
+      "selected": "A",
+      "correct": false
+    },
+    "26": {
+      "selected": "A",
+      "correct": false
+    },
+    "27": {
+      "selected": null,
+      "correct": null
+    },
+    "28": {
+      "selected": null,
+      "correct": null
+    },
+    "29": {
+      "selected": "A",
+      "correct": false
+    },
+    "30": {
+      "selected": "C",
+      "correct": true
+    },
+    "31": {
+      "selected": null,
+      "correct": null
+    },
+    "32": {
+      "selected": null,
+      "correct": null
+    },
+    "33": {
+      "selected": null,
+      "correct": null
+    },
+    "34": {
+      "selected": null,
+      "correct": null
+    },
+    "35": {
+      "selected": "B",
+      "correct": false
+    },
+    "36": {
+      "selected": null,
+      "correct": null
+    },
+    "37": {
+      "selected": null,
+      "correct": null
+    },
+    "38": {
+      "selected": "B",
+      "correct": true
+    },
+    "39": {
+      "selected": null,
+      "correct": null
+    },
+    "40": {
+      "selected": null,
+      "correct": null
+    },
+    "41": {
+      "selected": "A",
+      "correct": false
+    },
+    "42": {
+      "selected": "A",
+      "correct": false
+    },
+    "43": {
+      "selected": null,
+      "correct": null
+    },
+    "44": {
+      "selected": null,
+      "correct": null
+    },
+    "45": {
+      "selected": "A",
+      "correct": false
+    },
+    "46": {
+      "selected": null,
+      "correct": null
+    },
+    "47": {
+      "selected": null,
+      "correct": null
+    },
+    "48": {
+      "selected": null,
+      "correct": null
+    },
+    "49": {
+      "selected": "B",
+      "correct": false
+    },
+    "50": {
+      "selected": null,
+      "correct": null
+    },
+    "51": {
+      "selected": null,
+      "correct": null
+    },
+    "52": {
+      "selected": "B",
+      "correct": true
+    },
+    "53": {
+      "selected": null,
+      "correct": null
+    },
+    "54": {
+      "selected": null,
+      "correct": null
+    },
+    "55": {
+      "selected": "B",
+      "correct": false
+    },
+    "56": {
+      "selected": "B",
+      "correct": true
+    },
+    "57": {
+      "selected": null,
+      "correct": null
+    },
+    "58": {
+      "selected": null,
+      "correct": null
+    },
+    "59": {
+      "selected": "D",
+      "correct": false
+    },
+    "60": {
+      "selected": null,
+      "correct": null
+    },
+    "61": {
+      "selected": null,
+      "correct": null
+    },
+    "62": {
+      "selected": null,
+      "correct": null
+    },
+    "63": {
+      "selected": null,
+      "correct": null
+    },
+    "64": {
+      "selected": null,
+      "correct": null
+    },
+    "65": {
+      "selected": "B",
+      "correct": false
+    },
+    "66": {
+      "selected": "B",
+      "correct": true
+    },
+    "67": {
+      "selected": null,
+      "correct": null
+    },
+    "68": {
+      "selected": null,
+      "correct": null
+    },
+    "69": {
+      "selected": "B",
+      "correct": false
+    },
+    "70": {
+      "selected": "B",
+      "correct": true
+    },
+    "71": {
+      "selected": null,
+      "correct": null
+    },
+    "72": {
+      "selected": null,
+      "correct": null
+    },
+    "73": {
+      "selected": "D",
+      "correct": true
+    },
+    "74": {
+      "selected": null,
+      "correct": null
+    },
+    "75": {
+      "selected": null,
+      "correct": null
+    },
+    "76": {
+      "selected": "A",
+      "correct": false
+    },
+    "77": {
+      "selected": "B",
+      "correct": true
+    },
+    "78": {
+      "selected": null,
+      "correct": null
+    },
+    "79": {
+      "selected": null,
+      "correct": null
+    },
+    "80": {
+      "selected": "A",
+      "correct": false
+    },
+    "81": {
+      "selected": null,
+      "correct": null
+    },
+    "82": {
+      "selected": "B",
+      "correct": true
+    },
+    "83": {
+      "selected": null,
+      "correct": null
+    },
+    "84": {
+      "selected": null,
+      "correct": null
+    },
+    "85": {
+      "selected": "B",
+      "correct": false
+    },
+    "86": {
+      "selected": null,
+      "correct": null
+    },
+    "87": {
+      "selected": "D",
+      "correct": false
+    },
+    "88": {
+      "selected": null,
+      "correct": null
+    },
+    "89": {
+      "selected": null,
+      "correct": null
+    },
+    "90": {
+      "selected": "A",
+      "correct": false
+    },
+    "91": {
+      "selected": "B",
+      "correct": false
+    },
+    "92": {
+      "selected": null,
+      "correct": null
+    },
+    "93": {
+      "selected": null,
+      "correct": null
+    },
+    "94": {
+      "selected": "A",
+      "correct": false
+    },
+    "95": {
+      "selected": null,
+      "correct": null
+    },
+    "96": {
+      "selected": "A",
+      "correct": false
+    },
+    "97": {
+      "selected": "A",
+      "correct": false
+    },
+    "98": {
+      "selected": "A",
+      "correct": true
+    },
+    "99": {
+      "selected": "D",
+      "correct": false
+    },
+    "100": {
+      "selected": null,
+      "correct": null
+    }
+  },
+  "ambiguous_count": 192,
+  "template_used": "v1"
+}
